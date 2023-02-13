@@ -1,4 +1,4 @@
-module github.com/kokoichi206-sandbox/go-install-name/piyo
+module github.com/kokoichi206-sandbox/go-install-name
 
 go 1.20
 
